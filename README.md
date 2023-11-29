@@ -3,7 +3,7 @@
 Without:
 
 ```
-git tag
+$ git tag
 v2.10.0
 v2.11.0
 v2.12.0
@@ -42,7 +42,7 @@ v2.9.0
 With:
 
 ```
-git tag | semversort
+$ git tag | semversort
 v2.2.1
 v2.2.2
 v2.3.0
